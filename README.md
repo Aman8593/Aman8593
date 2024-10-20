@@ -3,7 +3,7 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://via.placeholder.com/1000x300.png?text=Cloud+Enthusiast+%7C+Open+Source+Contributor" alt="Banner Image" width="1000" height="300">
+  <img src="![image](https://github.com/user-attachments/assets/e83cb79d-3f95-463d-9e3a-aeb9ee659df8)" alt="Banner Image" width="1000" height="300">
 </p>
 
 - 🔭 I’m currently working on **CI / CD (AWS) with various projects.**
