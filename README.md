@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Wadgaonkar</h1>
-<h4 align="center">☁️ Cloud Enthusiast and a dedicated open source contributor 🛠️</h4>
+<h3 align="center">☁️ Cloud Enthusiast and a dedicated open source contributor 🛠️</h3>
 
-<!-- Banner Image -->
-<p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/e83cb79d-3f95-463d-9e3a-aeb9ee659df8)" alt="Banner Image" width="1000" height="300">
-</p>
+![image](https://github.com/user-attachments/assets/190e8910-d548-4fdc-add0-491bea6080e0)
 
 - 🔭 I’m currently working on **CI / CD (AWS) with various projects.**
 
