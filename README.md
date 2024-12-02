@@ -21,12 +21,11 @@
   <a href="https://linkedin.com/in/aman-wadgaonkar" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-wadgaonkar" height="30" width="40" />
   </a>
-</p>
-<p align="left">
-  <a href="https://x.com/your_username" target="blank">
+  <a href="https://x.com/AmanWadgaonkar" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your_username" height="30" width="40" />
   </a>
 </p>
+
 
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
