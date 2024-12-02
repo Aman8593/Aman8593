@@ -3,7 +3,7 @@
 
 ![image](https://github.com/user-attachments/assets/190e8910-d548-4fdc-add0-491bea6080e0)
 
-- 🔭 I’m currently working on **CI / CD (AWS) with various projects.**
+- 🔭 I’m currently working on  **developmemt and CI / CD (AWS) with various projects.**
 
 - 📫 How to reach me **aman.wadgaonkar8593@gmail.com**
 
@@ -11,6 +11,7 @@
 <ul>
   <li>💻 Fullstack Development(ReactJs,NodeJs,NextJs,Auth)</li>
   <li>🔧 Git for Version Control</li>
+  <li>☁️ AWS </li>
   <li>🐳 Docker & Kubernetes</li>
   <li>🛠️ Infrastructure as Code (IaC)</li>
   <li>🗄️ Database Management Systems (DBMS)</li>
