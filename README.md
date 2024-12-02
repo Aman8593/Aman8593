@@ -9,7 +9,7 @@
 
 <h3 align="left">⚡ Skills and Expertise:</h3>
 <ul>
-  <li>💻 Fullstack Development</li>
+  <li>💻 Fullstack Development(ReactJs,NodeJs,NextJs,Auth)</li>
   <li>🔧 Git for Version Control</li>
   <li>🐳 Docker & Kubernetes</li>
   <li>🛠️ Infrastructure as Code (IaC)</li>
