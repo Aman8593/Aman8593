@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Wadgaonkar</h1>
-<h3 align="center">☁️ Cloud Enthusiast and a dedicated open source contributor 🛠️</h3>
+<h3 align="center">Developer and a dedicated open source contributor 🛠️</h3>
 
 ![image](https://github.com/user-attachments/assets/190e8910-d548-4fdc-add0-491bea6080e0)
 
