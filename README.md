@@ -3,7 +3,7 @@
 
 ![image](https://github.com/user-attachments/assets/190e8910-d548-4fdc-add0-491bea6080e0)
 
-- 🔭 I’m currently working on  **developmemt and CI / CD (AWS) with various projects.**
+- 🔭 I’m currently working on  ** Software developmemt and US market data with various projects.**
 
 - 📫 How to reach me **aman.wadgaonkar8593@gmail.com**
 
